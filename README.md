@@ -1,5 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=713ikarosu&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=713ikarosu&layout=compact&theme=cobalt&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=713ikarosu&layout=compact&theme=cobalt&show_icons=ture" />
+</p>
 
 <!--
 **713ikarosu/713ikarosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
